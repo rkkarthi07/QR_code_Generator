@@ -1,0 +1,33 @@
+.svg-container {
+    display: block;
+    width: 512px;
+    height: 512px;
+    overflow: hidden;
+  }
+  svg {
+    width: 100%;
+    height: 90%;
+  }
+  
+  circle {
+    fill: #eb1523;
+  }
+  
+  path {
+    fill: #FFDC8D;
+  }
+  
+  rect {
+    fill: #5C5E70;
+  }
+  
+  polygon {
+    fill: #5C5E70;
+  }
+  
+  .svg-container .circle {
+    fill: #FCF8F2;
+  }
+  i{
+    color: black;
+  }
